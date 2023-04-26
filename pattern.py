@@ -14,6 +14,8 @@ for i in range(1,5):
     print()
 
 # to get lower triangule
+
+
 for i in range(1,7):
     for j in range(1,7):
         if(i == 6 or j == 1 or i == j):
